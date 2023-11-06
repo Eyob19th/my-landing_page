@@ -1,1 +1,2 @@
-this is a readme file for music recommender web app 
+this is a readme file for music recommender web 
+creating my landing page 
